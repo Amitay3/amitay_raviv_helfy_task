@@ -34,7 +34,7 @@ Base URL: http://localhost:4000/api/tasks
 
 ## Time Spent
 
-* **Backend & API Setup:** 90 minutes
+* **Backend & API Setup:** 1.5 hours
 * **Frontend Core & State:** 1 hour
-* **Carousel Implementation (Logic + CSS), and styling overall:** 2 hours
+* **Carousel Implementation (Logic + CSS), and styling overall:** 1 hours
 * **Testing and Debugging:** 30 minutes 
