@@ -10,7 +10,7 @@ Navigate to the backend folder to install dependencies and start the backend ser
     cd backend
     npm install
     npm start
-    # Runs on http://localhost:4000 (Generates 100 mock tasks on start)
+    # Runs on http://localhost:4000 
 
 **2. Frontend**
 Open a new terminal, navigate to the frontend folder, and start the React app.
